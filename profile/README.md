@@ -6,8 +6,8 @@ Welcome to the GitHub repository for the Programming and Web Development Class o
 
 In this repository, you will find subdirectories dedicated to individual team projects. Each project directory contains project-specific information, source code, documentation, and related resources. Use these directories to collaborate and track the progress of your team projects.
 
-- [Project 1: Biotech CSI](team-projects/project1/README.md)
-- [Project 2: Biotech CSI Server](team-projects/project2/README.md)
+- [Project 1: Biotech CSI](https://github.com/Minuteman-PWD-2025/Biotech-CSI)
+- [Project 2: Biotech CSI Server](https://github.com/Minuteman-PWD-2025/Biotech-CSI-Server)
 
 ## Project Guidelines
 
