@@ -22,6 +22,7 @@ To streamline project management, we use GitHub Projects. Each project board pro
 Effective communication is crucial for successful teamwork. Use the following channels to communicate with your team members:
 
 - **Issues**: For specific project-related questions, problems, or bug reports, create issues in the respective project repositories.
+- **Projects**: For tasks, timeline, and to-do's.
 
 ## Getting Started
 
@@ -32,5 +33,3 @@ Effective communication is crucial for successful teamwork. Use the following ch
 ## Contributing
 
 We encourage active participation and collaboration among students. If you have suggestions or improvements for the class or the repository, please feel free to open an issue or discussion to share your ideas.
-
-Let's collaborate, learn, and build amazing web development projects together!
